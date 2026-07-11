@@ -18,7 +18,7 @@ A simple calculator inspired by the **Stardance** theme.
 
 ## 📸 Preview
 
-_Add a screenshot of the calculator here._
+<img src = "Images/StarCalc.png" width = 300 />
 
 ## 📦 Installation
 
