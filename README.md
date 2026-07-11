@@ -2,7 +2,7 @@
 
 A simple calculator inspired by the **Stardance** theme.
 
-## 🚀 Features
+##  Features
 
 - ➕ Addition
 - ➖ Subtraction
@@ -16,11 +16,11 @@ A simple calculator inspired by the **Stardance** theme.
 - Python
 - Tkinter (Graphical User Interface)
 
-## 📸 Preview
+##  Preview
 
 <img src = "Images/StarCalc.png" width = 300 />
 
-## 📦 Installation
+##  Installation
 
 1. Clone this repository:
 
